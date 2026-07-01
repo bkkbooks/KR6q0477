@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0477/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 國清大庾韜禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB305.xml
+    old_id: J34nB305
+hash: sha256:a70b060fadd47ad0c98f9d18397e773bb4e9ccde39d7235605d961097d2ca1c3

@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6q0477/v1
+canonical_location: https://kanripo.org/bkk/KR6q0477/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 國清大庾韜禪師語錄
+  identifiers:
+    alt_id:
+    - J34nB305
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB305.xml
+    old_id: J34nB305
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0477_000.yaml, hash: 'sha256:a70b060fadd47ad0c98f9d18397e773bb4e9ccde39d7235605d961097d2ca1c3'}
+  - {seq: 1, filename: KR6q0477_001.yaml, hash: 'sha256:939cbf069228ab120f8d430678dadcd855443ecdb4b03915f4fff22ad1258aaf'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0477_001.markers.yaml, hash: 'sha256:8609b002d7cc1c8c2ee89e17e1c93540d58265f0a3ab54fd50dfee3f3e344a5f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 13252
+  label: 大庾禪師住天台景德國清禪寺語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-2
+    span:
+    - body
+    - 6754
+    - 6754
+  label: 塔銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-3
+    span:
+    - body
+    - 9923
+    - 9923
+  label: 行略
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-4
+    span:
+    - body
+    - 9939
+    - 9939
+  label: 參學事實
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-5
+    span:
+    - body
+    - 10841
+    - 10841
+  label: 通報恩和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-6
+    span:
+    - body
+    - 11060
+    - 11060
+  label: 通聖恩和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-7
+    span:
+    - body
+    - 11310
+    - 11310
+  label: 通靈隱和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-8
+    span:
+    - body
+    - 11594
+    - 11594
+  label: 通淨慈和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-9
+    span:
+    - body
+    - 11853
+    - 11853
+  label: 通同門毅菴諸大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-10
+    span:
+    - body
+    - 11987
+    - 11987
+  label: 上靈巖老和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-11
+    span:
+    - body
+    - 12323
+    - 12323
+  label: 與宗黨親故書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0477_J_001-mulu-12
+    span:
+    - body
+    - 13025
+    - 13025
+  label: 示若千山子
+  type: mulu
+  level: 1
+hash: sha256:5f13eebba772933e52a489c7a319e7285d91df82d42e9054d71a4c4ca9e36615
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
